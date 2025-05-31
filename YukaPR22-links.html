@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mis Enlaces</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen">
+  <div class="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md text-center">
+    <img src="c:\Users\Usuario\Pictures\Saved Pictures\IMG-20250531-WA0151.jpg" alt="Tu Foto" class="mx-auto rounded-full mb-4 w-24 h-24">
+    <h1 class="text-2xl font-bold mb-2">YukaPR22</h1>
+    <p class="text-gray-500 mb-6">Aqui tienes mis redes corazon de melon</p>
+
+    <!-- Botones de enlaces personalizados -->
+    <a href="https://www.twitch.tv/yukapr22" target="_blank" class="block bg-blue-500 hover:bg-blue-600 text-white font-semibold py-3 px-4 rounded-xl mb-4 transition">
+      TWITCH
+    </a>
+    <a href="https://youtube.com/@yukapr22?si=PpX5fH_2uLu3zAtt" target="_blank" class="block bg-green-500 hover:bg-green-600 text-white font-semibold py-3 px-4 rounded-xl mb-4 transition">
+      YOUTUBE
+    </a>
+    <a href="https://www.tiktok.com/@yukapr22?_t=ZT-8vmxjrFUIRy&_r=1" target="_blank" class="block bg-purple-500 hover:bg-purple-600 text-white font-semibold py-3 px-4 rounded-xl mb-4 transition">
+      TIKTOK
+    </a>
+
+    <!-- Puedes agregar más enlaces copiando el bloque <a> anterior -->
+
+    <footer class="text-gray-400 mt-6 text-sm">
+      © 2025 Creado por ivanexxus_yt
+    </footer>
+  </div>
+</body>
+</html>
